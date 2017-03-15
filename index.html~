@@ -1,19 +1,11 @@
 <!DOCTYPE html>
-<!-- saved from url=(0040)http://www.tupuy.com/index.html#captains -->
+
 <html id="html"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 	<meta charset="UTF-8">
 	<meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport">
-	<link rel="icon" type="image/png" href="http://www.tupuy.com/img/favicon.png">
+	<link rel="icon" type="image/png" href="./resources/favicon.png">
 	<title>DJ</title>
-    <!--
-    <meta name="description" content="Tupuy - The audio guides app.">
-    <meta property="og:type" content="website">
-    <meta property="og:title" content="Tupuy">
-    <meta property="og:description" content="The audio guides app.">
-    <meta property="og:url" content="http://www.tupuy.com/">
-    <meta property="og:site_name" content="Tupuy">
-    <meta property="og:image" content="http://www.tupuy.com/img/share-eng.jpg">
-    	-->
+
 	<link href="./resources/reset.css" rel="stylesheet">
 	<link href="./resources/css.css" rel="stylesheet">
 	<link href="./resources/fonts.css" rel="stylesheet">
@@ -89,7 +81,7 @@
 			</div>
 		</div>
 		<div class="btn-descubre">
-			<span>Discover Tupuy</span>
+			<span>Discover DJ</span>
 			<img src="./resources/arrow-down.png" class="arrow-down" data-lang="en">
 		</div>
 	</section>
@@ -98,7 +90,7 @@
 		<div class="wrapper">
 			<div class="text">
 				<h3>The world in your pocket</h3>
-				<p>Tupuy is an audio guide app that allows you to visit the most important museums, monuments and city tours all around the world. All the audio guides are available for you to enjoy in your smartphone.</p>
+				<p>Dj is an audio guide app that allows you to visit the most important museums, monuments and city tours all around the world. All the audio guides are available for you to enjoy in your smartphone.</p>
 				<a name="ag" class="btn-audioguias" data-lang="en">Watch all the audio guides</a>
 			</div>
 			<div class="hand">
@@ -118,7 +110,7 @@
 				<span class="n"></span>
 			</div>
 			<div class="text">
-				Captains of their destiny travel with Tupuy.
+				Captains of their destiny travel with DJ.
 			</div>
 			<img src="./resources/img-capitanes.png" class="img-cap">
 		</div>
@@ -199,16 +191,16 @@
 	<section class="descargar" data-section="download">
 		<div class="wrapper">
 			<div class="text">
-				<h3>Get Tupuy</h3>
+				<h3>Get DJ App</h3>
 				<p>Available in Appstore and Playstore <i class="fa fa-apple"></i> <i class="fa fa-android"></i></p>
 			</div>
 			<img src="./resources/bg-descargar.png" class="bg-descargar">
 			<div class="btn-descargar">
 				<div class="btn-apple">
-					<a href="https://itunes.apple.com/us/app/tupuy-audio-guias-los-museos/id798664006?mt=8" target="_blank"><i class="fa fa-apple"></i></a>
+					<a href="#" target="_blank"><i class="fa fa-apple"></i></a>
 				</div>
 				<div class="btn-android">
-					<a href="https://play.google.com/store/apps/details?id=com.mwluis.tupuy&hl=es_419" target="_blank"><i class="fa fa-android"></i></a>
+					<a href="#" target="_blank"><i class="fa fa-android"></i></a>
 				</div>
 				<div class="text">
 					<span>Download Now.</span>
@@ -218,12 +210,12 @@
 			<footer>
 				<div class="left">
 					<img src="./resources/logo.png">
-					<p>© 2015, all rights reserved <span>- Created by <a href="http://www.estudionk.com/" target="_blank">Estudio NK</a></span></p>
+					<p>© 2017, all rights reserved <span>- Created by <a href="#" target="_blank">Rohit</a></span></p>
 				</div>
 				<div class="right">
 					<span>Follow us.</span>
-					<i class="fa fa-facebook"><a href="https://www.facebook.com/tupuyapp?fref=ts" target="_blank"></a></i>
-					<i class="fa fa-twitter"><a href="https://twitter.com/tupuy" target="_blank"></a></i>
+					<i class="fa fa-facebook"><a href="#" target="_blank"></a></i>
+					<i class="fa fa-twitter"><a href="#" target="_blank"></a></i>
 				</div>
 			</footer>
 		</div>
